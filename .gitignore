@@ -8,3 +8,9 @@ stats.json
 .DS_Store
 npm-debug.log
 .idea
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
