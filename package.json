@@ -144,6 +144,7 @@
     ]
   },
   "dependencies": {
+    "antd": "^3.8.2",
     "babel-polyfill": "6.26.0",
     "chalk": "2.4.1",
     "compression": "1.7.2",
@@ -183,6 +184,7 @@
     "babel-eslint": "8.2.3",
     "babel-loader": "7.1.4",
     "babel-plugin-dynamic-import-node": "1.2.0",
+    "babel-plugin-import": "^1.8.0",
     "babel-plugin-react-intl": "2.4.0",
     "babel-plugin-react-transform": "3.0.0",
     "babel-plugin-styled-components": "1.5.1",
